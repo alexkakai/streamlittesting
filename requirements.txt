@@ -5,3 +5,4 @@ plotly==4.13.0
 streamlit==0.71.0
 altair
 bokeh
+matplotlib==3.3.4
